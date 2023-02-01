@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874838310842",
+    "firebase_url": "https://bloodbank-aptech-default-rtdb.firebaseio.com",
+    "project_id": "bloodbank-aptech",
+    "storage_bucket": "bloodbank-aptech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874838310842:android:19cdc0ef337d8c87936783",
+        "android_client_info": {
+          "package_name": "com.android.aptech.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874838310842-gtnp2vundr42sknish490krov7mb9lr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxYCjYjAjF6yovri7Xt9IFQUto_Cc0Ff8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874838310842-gtnp2vundr42sknish490krov7mb9lr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
